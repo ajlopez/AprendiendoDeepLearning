@@ -31,7 +31,44 @@ TBD
 
 ## Referencias
 
-TBD
+### Historia    
+
+### Redes Multicapas
+
+### Funciones de Activación
+
+### Redes Convolucionales
+
+### Redes Recursivas
+
+### Redes Residuales
+
+### Deep Learning
+
+- [Deep Learning](http://deeplearning.net/)
+
+### Implementaciones
+
+- [Playground](https://playground.tensorflow.org)
+- [Play with neural networks](https://github.com/tensorflow/playground)
+- [Synaptic](http://caza.la/synaptic/#/)
+- [Accord.NET Framework](http://accord-framework.net/)
+
+### Ejemplos
+
+- [You can build a neural network in JavaScript even if you don’t really understand neural networks](https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-really-understand-neural-networks-e63e12713a3))
+- [Nearest Neighbors with Keras and CoreML](https://hackernoon.com/nearest-neighbors-with-keras-and-coreml-755e76fedf36)
+
+### Libros
+
+- Neural Networks, Simon Haykin
+- Fundamentals of Deep Learning, Nikhil Buduma (2017, O’Reilly)
+- Anthony L. Caterini, Dong Eui Chang - Deep Neural Networks in a Mathematical Framework (2018, Springer)
+- Charu C. Aggarwal - Neural Networks and Deep Learning. A Textbook (2018, Springer)
+- Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning (2016, The MIT Press)
+
+### AlphaGo
+
 ## Presentaciones
 
 TBD
