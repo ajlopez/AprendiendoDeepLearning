@@ -39,12 +39,18 @@ TBD
 
 ### Redes Convolucionales
 
+- [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
+- [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
+- [Introducing convolutional networks](http://neuralnetworksanddeeplearning.com/chap6.html#introducing_convolutional_networks)
+- [Convolutional neural networks in practice](http://neuralnetworksanddeeplearning.com/chap6.html#convolutional_neural_networks_in_practice)
+
 ### Redes Recursivas
 
 ### Redes Residuales
 
 ### Deep Learning
 
+- [Neural Networks and Deep Learning (online book)](http://neuralnetworksanddeeplearning.com/)
 - [Deep Learning](http://deeplearning.net/)
 
 ### Implementaciones
