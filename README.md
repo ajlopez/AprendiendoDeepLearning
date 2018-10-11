@@ -68,6 +68,7 @@ TBD
 - [Pool Layer](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/pooling_layer.html)
 - [GoogleNet](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/googlenet.html)
 - [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
+- [ImageNet Classification with Deep Convolutional Neural Networks](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)
 
 ### Redes Recurrentes
 
