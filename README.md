@@ -35,6 +35,8 @@ TBD
 
 ### Redes Multicapas
 
+- [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
+
 ### Funciones de Activación
 
 - [Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
@@ -45,6 +47,12 @@ TBD
 - [Rectified-Linear unit Layer](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/relu_layer.html)
 - [ReLU and Softmax Activation Functions](https://github.com/Kulbear/deep-learning-nano-foundation/wiki/ReLU-and-Softmax-Activation-Functions)
 - [Rectified Linear Units (ReLU) in Deep Learning](https://www.kaggle.com/dansbecker/rectified-linear-units-relu-in-deep-learning)
+
+### Backpropagation
+
+- [My attempt to understand the backpropagation algorithm for training neural networks](https://www.cl.cam.ac.uk/archive/mjcg/plans/Backpropagation.html)
+- [Backpropagation](https://ml-cheatsheet.readthedocs.io/en/latest/backpropagation.html)
+- [Which is best for training an artificial neural network, a backpropagation algorithm, or a genetic algorithm?](https://www.quora.com/Which-is-best-for-training-an-artificial-neural-network-a-backpropagation-algorithm-or-a-genetic-algorithm)
 
 ### Redes Convolucionales
 
@@ -95,6 +103,7 @@ TBD
 - [Accord.NET Framework](http://accord-framework.net/)
 - [Deep Learning Libraries](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/deep_learning_libraries.html)
 - [PyTorch Neural Networks](https://pytorch.org/docs/stable/nn.html)
+- [ConvNetJS, Deep Learning in Your Browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
 
 ### Conjuntos de Datos
 
