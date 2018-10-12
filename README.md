@@ -53,6 +53,9 @@ TBD
 - [My attempt to understand the backpropagation algorithm for training neural networks](https://www.cl.cam.ac.uk/archive/mjcg/plans/Backpropagation.html)
 - [Backpropagation](https://ml-cheatsheet.readthedocs.io/en/latest/backpropagation.html)
 - [Which is best for training an artificial neural network, a backpropagation algorithm, or a genetic algorithm?](https://www.quora.com/Which-is-best-for-training-an-artificial-neural-network-a-backpropagation-algorithm-or-a-genetic-algorithm)
+- [Gradient Descent and Backpropagation](https://www.linkedin.com/pulse/gradient-descent-backpropagation-ken-chen)
+- [What is the difference between SGD and back propagation?](https://stackoverflow.com/questions/37953585/what-is-the-difference-between-sgd-and-back-propagation)
+- [Deep Learning Basics: Neural Networks, Backpropagation and Stochastic Gradient Descent](http://alexminnaar.com/deep-learning-basics-neural-networks-backpropagation-and-stochastic-gradient-descent.html)
 
 ### Redes Convolucionales
 
