@@ -81,6 +81,7 @@ TBD
 
 ### Redes Residuales
 
+- [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
 - [Residual Net](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/residual_net.html)
 
 ### Deep Learning
