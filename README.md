@@ -154,5 +154,5 @@ TBD
 
 ## Presentaciones
 
-TBD
+- [Neural Networks and Deep Learning](https://docs.google.com/presentation/d/111OTaa393KlADKp7put4Q4JCpZWyz2W6R1CcC3073D4]
 
