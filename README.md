@@ -90,6 +90,7 @@ TBD
 - [Deep Learning](http://deeplearning.net/)
 - [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
 - [Deep Learning](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/deep_learning.html)
+- [Deep Learning Book](https://www.deeplearningbook.org/)
 
 ### Aprendizaje Reforzado
 
@@ -128,6 +129,7 @@ TBD
 - Anthony L. Caterini, Dong Eui Chang - Deep Neural Networks in a Mathematical Framework (2018, Springer)
 - Charu C. Aggarwal - Neural Networks and Deep Learning. A Textbook (2018, Springer)
 - Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning (2016, The MIT Press)
+- Deep Reinforcement Learning Hands-On, Maxim Lapan, Packt
 
 ### AlphaGo
 
