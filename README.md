@@ -100,6 +100,7 @@ TBD
 - [A Deep Dive into Reinforcement Learning](https://www.toptal.com/machine-learning/deep-dive-into-reinforcement-learning)
 - [Deep Q-Learning](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/deep_q_learning.html)
 - [Schooling Flappy Bird: A Reinforcement Learning Tutorial](https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial)
+- [What’s New in Deep Learning Research: How Google Uses Reinforcement Learning to Ask All the Right Questions](https://towardsdatascience.com/whats-new-in-deep-learning-research-how-google-uses-reinforcement-learning-to-ask-all-the-right-69c172f113c4)
 
 ### Implementaciones
 
@@ -124,6 +125,7 @@ TBD
 - [Python Machine Learning Prediction with a Flask REST API](https://www.toptal.com/python/python-machine-learning-flask-example)
 - [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 - [Deep Lip Reading: a comparison of models and an online application](https://arxiv.org/abs/1806.06053)
+- [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 
 ### Libros
 
