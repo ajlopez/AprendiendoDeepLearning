@@ -124,6 +124,7 @@ TBD
 - [Python Machine Learning Prediction with a Flask REST API](https://www.toptal.com/python/python-machine-learning-flask-example)
 - [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 - [Deep Lip Reading: a comparison of models and an online application](https://arxiv.org/abs/1806.06053)
+- [CAN: Creative Adversarial Networks Generating “Art” by Learning About Styles and Deviating from Style Norms](https://arxiv.org/pdf/1706.07068.pdf)
 
 ### Libros
 
@@ -154,5 +155,5 @@ TBD
 
 ## Presentaciones
 
-- [Neural Networks and Deep Learning](https://docs.google.com/presentation/d/111OTaa393KlADKp7put4Q4JCpZWyz2W6R1CcC3073D4]
+- [Neural Networks and Deep Learning](https://docs.google.com/presentation/d/111OTaa393KlADKp7put4Q4JCpZWyz2W6R1CcC3073D4)
 
