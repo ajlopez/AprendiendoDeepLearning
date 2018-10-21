@@ -136,6 +136,7 @@ TBD
 - Charu C. Aggarwal - Neural Networks and Deep Learning. A Textbook (2018, Springer)
 - Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning (2016, The MIT Press)
 - Deep Reinforcement Learning Hands-On, Maxim Lapan, Packt
+- Deep Learning with Python, A Hands-On Introduction, Nikhil Ketkar, Apress (2017)
 
 ### AlphaGo
 
