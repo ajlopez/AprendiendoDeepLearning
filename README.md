@@ -72,6 +72,7 @@ TBD
 - [GoogleNet](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/googlenet.html)
 - [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
 - [ImageNet Classification with Deep Convolutional Neural Networks](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)
+- [Convolution neural nets, Part 2](https://blog.acolyer.org/2017/03/21/convolution-neural-nets-part-2/)
 
 ### Redes Recurrentes
 
@@ -155,6 +156,42 @@ TBD
 - [AlphaGo vs Lee Sedol Match 1 Game Replay (Google DeepMind Challenge Match)](https://www.youtube.com/watch?v=wkKP9eZV__c)
 - [Match 1 15 min Summary - Google DeepMind Challenge Match](https://www.youtube.com/watch?v=bIQxOsRAXCo)
 - [An open-source implementation of the AlphaGoZero algorithm](https://github.com/tensorflow/minigo)
+
+### Detección de Objetos
+
+- [Viola–Jones object detection framework](https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework)
+- [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://arxiv.org/abs/1406.4729)
+- [Spatial pyramid pooling (SPP)](https://gist.github.com/yardstick17/22c02363c5e04763373b588f1a3bceeb)
+- [How does the spatial pyramid matching method work?](https://www.quora.com/How-does-the-spatial-pyramid-matching-method-work)
+- [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
+- [Histogram of Oriented Gradients](https://www.learnopencv.com/histogram-of-oriented-gradients/)
+- [Training a better Haar and LBP cascade based Eye Detector using OpenCV](https://www.learnopencv.com/training-better-haar-lbp-cascade-eye-detector-opencv/)
+- [Histogram of oriented gradients](https://en.wikipedia.org/wiki/Histogram_of_oriented_gradients)
+- [Histograms of oriented gradients for human detection](https://ieeexplore.ieee.org/document/1467360)
+- [Darknet Convolutional Neural Networks](https://github.com/pjreddie/darknet)
+- [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325)
+- [Single Shot detectors](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/single-shot-detectors.html)
+- [SSD object detection: Single Shot MultiBox Detector for real-time processing](https://medium.com/@jonathan_hui/ssd-object-detection-single-shot-multibox-detector-for-real-time-processing-9bd8deac0e06)
+- [Fast Region-based Convolutional Neural Network](https://arxiv.org/abs/1504.08083)
+- [R-CNN, Fast R-CNN, Faster R-CNN, YOLO — Object Detection Algorithms](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e)
+- [Review: Fast R-CNN (Object Detection)](https://medium.com/coinmonks/review-fast-r-cnn-object-detection-a82e172e87ba)
+- [Introduction to How Faster R-CNN, Fast R-CNN and R-CNN Works](https://www.youtube.com/watch?v=v5bFVbQvFRk)
+- [Udacity Vehicle Detection faster rcnn](https://www.youtube.com/watch?v=dLwdY0S_8DY)
+- [Mask R-CNN](https://www.youtube.com/watch?v=g7z4mkfRjI4)
+- [Human Instances Segmentation (Faster RCNN + UNet) in Supervisely](https://www.youtube.com/watch?v=7eOLm_dsuz8)
+- [Image augmentation for machine learning experiments](https://github.com/aleju/imgaug)
+- [Image augmentation for machine learning experiments: documentation](https://imgaug.readthedocs.io/en/latest/)
+
+### Detección de Células Cancerosas
+
+- [A Deep Learning Approach for Tumor Tissue Image Classification](https://www.researchgate.net/publication/298929528_A_Deep_Learning_Approach_for_Tumor_Tissue_Image_Classification)
+- [Using Machine Learning for Classification of Cancer Cells](https://www.s.u-tokyo.ac.jp/en/utrip/archive/2017/pdf/2_07.pdf)
+- [A Deep Learning Approach for Cancer Detection and Relevant Gene Identification](https://psb.stanford.edu/psb-online/proceedings/psb17/danaee.pdf)
+- [An improved deep learning approach for detection of thyroid papillary cancer in ultrasound images](https://www.nature.com/articles/s41598-018-25005-7)
+- [Google’s Machine Learning Model can Detect Cancer in Real-Time](https://www.analyticsvidhya.com/blog/2018/04/googles-machine-learning-model-can-detect-cancer-real-time/)
+- [Deep Learning Based Automatic Immune Cell Detection for Immunohistochemistry Images](https://pdfs.semanticscholar.org/e47c/3012e443d3bd7b0e5630427595e765c4b21f.pdf)
+- [Deep Learning for Cancer Diagnosis: A Bright Future](https://software.intel.com/en-us/articles/deep-learning-for-cancer-diagnosis-a-bright-future)
+
 
 ## Presentaciones
 
