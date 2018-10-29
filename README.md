@@ -73,6 +73,7 @@ TBD
 - [Convolutional Neural Networks (CNNs / ConvNets)](http://cs231n.github.io/convolutional-networks/)
 - [ImageNet Classification with Deep Convolutional Neural Networks](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)
 - [Convolution neural nets, Part 2](https://blog.acolyer.org/2017/03/21/convolution-neural-nets-part-2/)
+- [3D Visualization of a Convolutional Neural Network](http://scs.ryerson.ca/~aharley/vis/conv/)
 
 ### Redes Recurrentes
 
