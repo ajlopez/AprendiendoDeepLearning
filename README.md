@@ -119,7 +119,7 @@ TBD
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [The MNIST Database of handwritten digits](http://yann.lecun.com/exdb/mnist/)
 
-### Ejemplos
+### Aplicaciones
 
 - [You can build a neural network in JavaScript even if you don’t really understand neural networks](https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-really-understand-neural-networks-e63e12713a3))
 - [Nearest Neighbors with Keras and CoreML](https://hackernoon.com/nearest-neighbors-with-keras-and-coreml-755e76fedf36)
@@ -129,6 +129,7 @@ TBD
 - [Deep Lip Reading: a comparison of models and an online application](https://arxiv.org/abs/1806.06053)
 - [CAN: Creative Adversarial Networks Generating “Art” by Learning About Styles and Deviating from Style Norms](https://arxiv.org/pdf/1706.07068.pdf)
 - [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+- [Loc2Vec: Learning location embeddings with triplet-loss networks](https://www.sentiance.com/2018/05/03/loc2vec-learning-location-embeddings-w-triplet-loss-networks/)
 
 ### Libros
 
@@ -158,7 +159,7 @@ TBD
 - [Match 1 15 min Summary - Google DeepMind Challenge Match](https://www.youtube.com/watch?v=bIQxOsRAXCo)
 - [An open-source implementation of the AlphaGoZero algorithm](https://github.com/tensorflow/minigo)
 
-### Detección de Objetos
+### Detección de Objetos (Object Recognition)
 
 - [Viola–Jones object detection framework](https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework)
 - [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://arxiv.org/abs/1406.4729)
@@ -189,6 +190,7 @@ TBD
 - [Human Instances Segmentation (Faster RCNN + UNet) in Supervisely](https://www.youtube.com/watch?v=7eOLm_dsuz8)
 - [Image augmentation for machine learning experiments](https://github.com/aleju/imgaug)
 - [Image augmentation for machine learning experiments: documentation](https://imgaug.readthedocs.io/en/latest/)
+- [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
 
 ### Detección de Células Cancerosas
 
@@ -200,6 +202,20 @@ TBD
 - [Deep Learning Based Automatic Immune Cell Detection for Immunohistochemistry Images](https://pdfs.semanticscholar.org/e47c/3012e443d3bd7b0e5630427595e765c4b21f.pdf)
 - [Deep Learning for Cancer Diagnosis: A Bright Future](https://software.intel.com/en-us/articles/deep-learning-for-cancer-diagnosis-a-bright-future)
 
+## Reconocimiento de Caras (Facial Recognition)
+
+- [OpenFace](https://cmusatyalab.github.io/openface/)
+- [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/1A_089.pdf)
+- [Facial recognition system](https://en.wikipedia.org/wiki/Facial_recognition_system)
+- [Facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition)
+- [One Shot Learning with Siamese Networks in PyTorch](https://hackernoon.com/one-shot-learning-with-siamese-networks-in-pytorch-8ddaab10340e)
+- [Siamese Network & Triplet Loss](https://towardsdatascience.com/siamese-network-triplet-loss-b4ca82c1aec8)
+- [Implementation of triplet loss in TensorFlow](https://omoindrot.github.io/triplet-loss)
+- [Triplet loss and its uses](Triplet loss and its uses)
+- [Apple's New iPads Embrace Facial Recognition](https://www.voanews.com/a/apple-s-new-ipads-embrace-facial-recognition/4635247.html)
+- [How Facial Recognition Systems Work](https://electronics.howstuffworks.com/gadgets/high-tech-gadgets/facial-recognition.htm)
+- [HyperFace: A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition](https://ieeexplore.ieee.org/abstract/document/8170321)
+- [Learning Invariant Deep Representation for NIR-VIS Face Recognition](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14253/14366)
 
 ## Presentaciones
 
