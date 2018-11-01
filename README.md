@@ -211,7 +211,7 @@ TBD
 - [One Shot Learning with Siamese Networks in PyTorch](https://hackernoon.com/one-shot-learning-with-siamese-networks-in-pytorch-8ddaab10340e)
 - [Siamese Network & Triplet Loss](https://towardsdatascience.com/siamese-network-triplet-loss-b4ca82c1aec8)
 - [Implementation of triplet loss in TensorFlow](https://omoindrot.github.io/triplet-loss)
-- [Triplet loss and its uses](Triplet loss and its uses)
+- [Triplet loss and its uses](https://effectiveml.com/blog/triplet-loss-and-its-uses.html)
 - [Apple's New iPads Embrace Facial Recognition](https://www.voanews.com/a/apple-s-new-ipads-embrace-facial-recognition/4635247.html)
 - [How Facial Recognition Systems Work](https://electronics.howstuffworks.com/gadgets/high-tech-gadgets/facial-recognition.htm)
 - [HyperFace: A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition](https://ieeexplore.ieee.org/abstract/document/8170321)
