@@ -219,6 +219,8 @@ TBD
 - [Luxand FaceSDK](https://www.luxand.com/facesdk/)
 - [Face Recognition](https://www.eff.org/pages/face-recognition)
 - [The Guardian: Face Recognition](https://www.theguardian.com/technology/facial-recognition)
+- [20 Facial Recognition Search Engines For Online Photo Search](https://biometrictoday.com/facial-recognition-search-engines-online-photo/)
+- [8 Best Facial Recognition Search Engines to Search Faces Online](https://www.technonutty.com/2018/01/face-search-using-facial-recognition-search-engines.html)
 
 ## Presentaciones
 
