@@ -216,6 +216,9 @@ TBD
 - [How Facial Recognition Systems Work](https://electronics.howstuffworks.com/gadgets/high-tech-gadgets/facial-recognition.htm)
 - [HyperFace: A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition](https://ieeexplore.ieee.org/abstract/document/8170321)
 - [Learning Invariant Deep Representation for NIR-VIS Face Recognition](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14253/14366)
+- [Luxand FaceSDK](https://www.luxand.com/facesdk/)
+- [Face Recognition](https://www.eff.org/pages/face-recognition)
+- [The Guardian: Face Recognition](https://www.theguardian.com/technology/facial-recognition)
 
 ## Presentaciones
 
