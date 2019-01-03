@@ -141,7 +141,7 @@ TBD
 - Deep Reinforcement Learning Hands-On, Maxim Lapan, Packt
 - Deep Learning with Python, A Hands-On Introduction, Nikhil Ketkar, Apress (2017)
 
-### AlphaGo
+### AlphaGo y AlphaGo Zero
 
 - [AlphaGo Zero: Learning from scratch](https://deepmind.com/blog/alphago-zero-learning-scratch/)
 - [Google's New AlphaGo Breakthrough Could Take Algorithms Where No Humans Have Gone](http://fortune.com/2017/10/19/google-alphago-zero-deepmind-artificial-intelligence/)
@@ -158,6 +158,10 @@ TBD
 - [AlphaGo vs Lee Sedol Match 1 Game Replay (Google DeepMind Challenge Match)](https://www.youtube.com/watch?v=wkKP9eZV__c)
 - [Match 1 15 min Summary - Google DeepMind Challenge Match](https://www.youtube.com/watch?v=bIQxOsRAXCo)
 - [An open-source implementation of the AlphaGoZero algorithm](https://github.com/tensorflow/minigo)
+- [Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature24270)
+- [How the artificial-intelligence program AlphaZero mastered its games](https://www.newyorker.com/science/elements/how-the-artificial-intelligence-program-alphazero-mastered-its-games)
+- [Innovations of AlphaGo](https://deepmind.com/blog/innovations-alphago/)
+- [Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper](https://github.com/gcp/leela-zero)
 
 ### Detección de Objetos (Object Recognition)
 
