@@ -96,6 +96,7 @@ TBD
 - [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
 - [Deep Learning](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/deep_learning.html)
 - [Deep Learning Book](https://www.deeplearningbook.org/)
+- [Dive into Deep Learning](http://d2l.ai/index.html)
 
 ### Aprendizaje Reforzado
 
