@@ -97,6 +97,7 @@ TBD
 - [Deep Learning](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/deep_learning.html)
 - [Deep Learning Book](https://www.deeplearningbook.org/)
 - [Dive into Deep Learning](http://d2l.ai/index.html)
+- [A Guide for Building Convolutional Neural Networks](https://towardsdatascience.com/a-guide-for-building-convolutional-neural-networks-e4eefd17f4fd)
 
 ### Aprendizaje Reforzado
 
