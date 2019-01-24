@@ -75,6 +75,8 @@ TBD
 - [Convolution neural nets, Part 2](https://blog.acolyer.org/2017/03/21/convolution-neural-nets-part-2/)
 - [3D Visualization of a Convolutional Neural Network](http://scs.ryerson.ca/~aharley/vis/conv/)
 - [A Guide for Building Convolutional Neural Networks](https://towardsdatascience.com/a-guide-for-building-convolutional-neural-networks-e4eefd17f4fd)
+- [Very Deep Convolutional Networks for Large-Scale Visual Recognition](http://www.robots.ox.ac.uk/~vgg/research/very_deep/)
+- [Paper: Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
 
 ### Redes Recurrentes
 
