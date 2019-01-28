@@ -33,9 +33,12 @@ TBD
 
 ### Historia    
 
+A completar
+
 ### Redes Multicapas
 
 - [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
+- [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 
 ### Funciones de Activación
 
@@ -100,6 +103,7 @@ TBD
 - [Deep Learning](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/deep_learning.html)
 - [Deep Learning Book](https://www.deeplearningbook.org/)
 - [Dive into Deep Learning](http://d2l.ai/index.html)
+- [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 
 ### Aprendizaje Reforzado
 
