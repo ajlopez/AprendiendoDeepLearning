@@ -80,6 +80,7 @@ A completar
 - [A Guide for Building Convolutional Neural Networks](https://towardsdatascience.com/a-guide-for-building-convolutional-neural-networks-e4eefd17f4fd)
 - [Very Deep Convolutional Networks for Large-Scale Visual Recognition](http://www.robots.ox.ac.uk/~vgg/research/very_deep/)
 - [Paper: Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
+- [Convolutional Neural Networks — Simplified](https://medium.com/x8-the-ai-community/cnn-9c5e63703c3f)
 
 ### Redes Recurrentes
 
