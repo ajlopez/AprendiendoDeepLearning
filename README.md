@@ -59,6 +59,7 @@ A completar
 - [Gradient Descent and Backpropagation](https://www.linkedin.com/pulse/gradient-descent-backpropagation-ken-chen)
 - [What is the difference between SGD and back propagation?](https://stackoverflow.com/questions/37953585/what-is-the-difference-between-sgd-and-back-propagation)
 - [Deep Learning Basics: Neural Networks, Backpropagation and Stochastic Gradient Descent](http://alexminnaar.com/deep-learning-basics-neural-networks-backpropagation-and-stochastic-gradient-descent.html)
+- [Build a flexible Neural Network with Backpropagation in Python](https://dev.to/shamdasani/build-a-flexible-neural-network-with-backpropagation-in-python)
 
 ### Redes Convolucionales
 
@@ -204,6 +205,7 @@ A completar
 - [Image augmentation for machine learning experiments](https://github.com/aleju/imgaug)
 - [Image augmentation for machine learning experiments: documentation](https://imgaug.readthedocs.io/en/latest/)
 - [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
+- [An open source library for face detection in images. The face detection speed can reach 1500FPS.](https://github.com/ShiqiYu/libfacedetection)
 
 ### Detección de Células Cancerosas
 
