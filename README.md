@@ -158,6 +158,7 @@ A completar
 - [This More Powerful Version of AlphaGo Learns on its Own](https://www.wired.com/story/this-more-powerful-version-of-alphago-learns-on-its-own/)
 - [AlphaGoZero](https://en.wikipedia.org/wiki/AlphaGo_Zero)
 - [Mastering the game of Go with deep neural networks and tree search](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
+- [Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature24270)
 - [Understanding AlphaGo](https://machinelearnings.co/understanding-alphago-948607845bb1)
 - [The 3 Tricks That Made AlphaGo Zero Work](https://hackernoon.com/the-3-tricks-that-made-alphago-zero-work-f3d47b6686ef)
 - [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf%20alphago%20reinforcement%20learning)
@@ -172,6 +173,7 @@ A completar
 - [How the artificial-intelligence program AlphaZero mastered its games](https://www.newyorker.com/science/elements/how-the-artificial-intelligence-program-alphazero-mastered-its-games)
 - [Innovations of AlphaGo](https://deepmind.com/blog/innovations-alphago/)
 - [Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper](https://github.com/gcp/leela-zero)
+- [Las diferencias entre AlphaGo Fan, AlphaGo Lee, AlphaGo Master y AlphaGo Zero](https://francis.naukas.com/2017/10/21/las-diferencias-entre-alphago-fan-alphago-lee-alphago-master-y-alphago-zero/)
 
 ### Detección de Objetos (Object Recognition)
 
