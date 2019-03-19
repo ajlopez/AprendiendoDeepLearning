@@ -209,6 +209,9 @@ A completar
 - [Image augmentation for machine learning experiments: documentation](https://imgaug.readthedocs.io/en/latest/)
 - [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
 - [An open source library for face detection in images. The face detection speed can reach 1500FPS.](https://github.com/ShiqiYu/libfacedetection)
+- [How does the Inception module work in GoogLeNet deep architecture?](https://www.quora.com/How-does-the-Inception-module-work-in-GoogLeNet-deep-architecture)
+- [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/abs/1802.01548)
+- [Review: R-CNN (Object Detection)](https://medium.com/coinmonks/review-r-cnn-object-detection-b476aba290d1)
 
 ### Detección de Células Cancerosas
 
