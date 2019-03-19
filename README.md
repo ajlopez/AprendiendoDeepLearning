@@ -39,6 +39,7 @@ A completar
 
 - [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
 - [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+- [Neural networks from scratch for Javascript linguists (Part1 — The Perceptron)](https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2)
 
 ### Funciones de Activación
 
