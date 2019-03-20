@@ -41,6 +41,7 @@ A completar
 - [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 - [Neural networks from scratch for Javascript linguists (Part1 — The Perceptron)](https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2)
 - [Fast.AI](https://www.fast.ai/)
+- [Onnx: Open Neural Network Exchange Format](https://onnx.ai/)
 
 ### Funciones de Activación
 
@@ -125,6 +126,9 @@ A completar
 - [Deep Learning Libraries](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/deep_learning_libraries.html)
 - [PyTorch Neural Networks](https://pytorch.org/docs/stable/nn.html)
 - [ConvNetJS, Deep Learning in Your Browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
+- [StarSpace](https://research.fb.com/downloads/starspace/)
+- [StarSpace: Learning embeddings for classification, retrieval and ranking](https://github.com/facebookresearch/StarSpace)
+- [TensorRT](https://developer.nvidia.com/tensorrt)
 
 ### Conjuntos de Datos
 
