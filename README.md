@@ -85,6 +85,8 @@ A completar
 - [Very Deep Convolutional Networks for Large-Scale Visual Recognition](http://www.robots.ox.ac.uk/~vgg/research/very_deep/)
 - [Paper: Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
 - [Convolutional Neural Networks — Simplified](https://medium.com/x8-the-ai-community/cnn-9c5e63703c3f)
+- [How To Teach A Computer To See With Convolutional Neural Networks](https://towardsdatascience.com/how-to-teach-a-computer-to-see-with-convolutional-neural-networks-96c120827cd1)
+- [Implementation of Training Convolutional Neural Networks](https://arxiv.org/ftp/arxiv/papers/1506/1506.01195.pdf)
 
 ### Redes Recurrentes
 
