@@ -42,6 +42,7 @@ A completar
 - [Neural networks from scratch for Javascript linguists (Part1 — The Perceptron)](https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2)
 - [Fast.AI](https://www.fast.ai/)
 - [Onnx: Open Neural Network Exchange Format](https://onnx.ai/)
+- [Implementing The Perceptron Algorithm From Scratch In Python](https://hackernoon.com/implementing-the-perceptron-algorithm-from-scratch-in-python-48be2d07b1c0)
 
 ### Funciones de Activación
 
