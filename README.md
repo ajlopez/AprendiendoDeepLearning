@@ -112,6 +112,7 @@ A completar
 - [Deep Learning Book](https://www.deeplearningbook.org/)
 - [Dive into Deep Learning](http://d2l.ai/index.html)
 - [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+- [Learning Deep Learning — Step 1](https://becominghuman.ai/learning-deep-learning-step-1-dd635c373e7a)
 
 ### Aprendizaje Reforzado
 
