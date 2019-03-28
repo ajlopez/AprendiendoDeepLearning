@@ -43,6 +43,7 @@ A completar
 - [Fast.AI](https://www.fast.ai/)
 - [Onnx: Open Neural Network Exchange Format](https://onnx.ai/)
 - [Implementing The Perceptron Algorithm From Scratch In Python](https://hackernoon.com/implementing-the-perceptron-algorithm-from-scratch-in-python-48be2d07b1c0)
+- [The evolution of neural networks](https://www.bbntimes.com/en/technology/the-evolution-of-neural-networks)
 
 ### Funciones de Activación
 
@@ -64,6 +65,7 @@ A completar
 - [What is the difference between SGD and back propagation?](https://stackoverflow.com/questions/37953585/what-is-the-difference-between-sgd-and-back-propagation)
 - [Deep Learning Basics: Neural Networks, Backpropagation and Stochastic Gradient Descent](http://alexminnaar.com/deep-learning-basics-neural-networks-backpropagation-and-stochastic-gradient-descent.html)
 - [Build a flexible Neural Network with Backpropagation in Python](https://dev.to/shamdasani/build-a-flexible-neural-network-with-backpropagation-in-python)
+- [The Backpropagation Algorithm Demystified](https://medium.com/@nathaliejeans7/the-backpropagation-algorithm-demystified-41b705229727)
 
 ### Redes Convolucionales
 
