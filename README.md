@@ -150,6 +150,7 @@ A completar
 - [CAN: Creative Adversarial Networks Generating “Art” by Learning About Styles and Deviating from Style Norms](https://arxiv.org/pdf/1706.07068.pdf)
 - [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 - [Loc2Vec: Learning location embeddings with triplet-loss networks](https://www.sentiance.com/2018/05/03/loc2vec-learning-location-embeddings-w-triplet-loss-networks/)
+- [Generative Adversarial Networks for Text Generation — Part 2: Reinforcement Learning'](https://becominghuman.ai/generative-adversarial-networks-for-text-generation-part-2-rl-1bc18a2b8c60)
 
 ### Libros
 
