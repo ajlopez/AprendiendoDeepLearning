@@ -44,6 +44,7 @@ A completar
 - [Onnx: Open Neural Network Exchange Format](https://onnx.ai/)
 - [Implementing The Perceptron Algorithm From Scratch In Python](https://hackernoon.com/implementing-the-perceptron-algorithm-from-scratch-in-python-48be2d07b1c0)
 - [The evolution of neural networks](https://www.bbntimes.com/en/technology/the-evolution-of-neural-networks)
+- [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
 
 ### Funciones de Activación
 
