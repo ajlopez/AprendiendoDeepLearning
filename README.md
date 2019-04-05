@@ -45,6 +45,7 @@ A completar
 - [Implementing The Perceptron Algorithm From Scratch In Python](https://hackernoon.com/implementing-the-perceptron-algorithm-from-scratch-in-python-48be2d07b1c0)
 - [The evolution of neural networks](https://www.bbntimes.com/en/technology/the-evolution-of-neural-networks)
 - [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
+- [How Do Neural Networks Learn?](https://msdn.microsoft.com/en-us/magazine/mt833406)
 
 ### Funciones de Activación
 
@@ -91,6 +92,7 @@ A completar
 - [Convolutional Neural Networks — Simplified](https://medium.com/x8-the-ai-community/cnn-9c5e63703c3f)
 - [How To Teach A Computer To See With Convolutional Neural Networks](https://towardsdatascience.com/how-to-teach-a-computer-to-see-with-convolutional-neural-networks-96c120827cd1)
 - [Implementation of Training Convolutional Neural Networks](https://arxiv.org/ftp/arxiv/papers/1506/1506.01195.pdf)
+- [Image Tagger - A Convolutional Neural Network Based Image Classifier](https://www.codeproject.com/Articles/1360649/Image-Tagger-A-Convolutional-Neural-Network-Based)
 
 ### Redes Recurrentes
 
