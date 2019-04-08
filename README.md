@@ -46,6 +46,7 @@ A completar
 - [The evolution of neural networks](https://www.bbntimes.com/en/technology/the-evolution-of-neural-networks)
 - [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
 - [How Do Neural Networks Learn?](https://msdn.microsoft.com/en-us/magazine/mt833406)
+- [Self-organizing map](https://en.wikipedia.org/wiki/Self-organizing_map)
 
 ### Funciones de Activación
 
