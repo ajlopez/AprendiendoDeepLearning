@@ -146,6 +146,12 @@ A completar
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [The MNIST Database of handwritten digits](http://yann.lecun.com/exdb/mnist/)
 
+### Redes Adversarias
+
+- [CAN: Creative Adversarial Networks Generating “Art” by Learning About Styles and Deviating from Style Norms](https://arxiv.org/pdf/1706.07068.pdf)
+- [Generative Adversarial Networks for Text Generation — Part 2: Reinforcement Learning'](https://becominghuman.ai/generative-adversarial-networks-for-text-generation-part-2-rl-1bc18a2b8c60)
+- [5 New Generative Adversarial Network (GAN) Architectures For Image Synthesis](https://www.topbots.com/ai-research-generative-adversarial-network-images/)
+
 ### Aplicaciones
 
 - [You can build a neural network in JavaScript even if you don’t really understand neural networks](https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-really-understand-neural-networks-e63e12713a3))
@@ -154,10 +160,8 @@ A completar
 - [Python Machine Learning Prediction with a Flask REST API](https://www.toptal.com/python/python-machine-learning-flask-example)
 - [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 - [Deep Lip Reading: a comparison of models and an online application](https://arxiv.org/abs/1806.06053)
-- [CAN: Creative Adversarial Networks Generating “Art” by Learning About Styles and Deviating from Style Norms](https://arxiv.org/pdf/1706.07068.pdf)
 - [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 - [Loc2Vec: Learning location embeddings with triplet-loss networks](https://www.sentiance.com/2018/05/03/loc2vec-learning-location-embeddings-w-triplet-loss-networks/)
-- [Generative Adversarial Networks for Text Generation — Part 2: Reinforcement Learning'](https://becominghuman.ai/generative-adversarial-networks-for-text-generation-part-2-rl-1bc18a2b8c60)
 
 ### Libros
 
