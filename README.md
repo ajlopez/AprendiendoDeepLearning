@@ -47,6 +47,7 @@ A completar
 - [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
 - [How Do Neural Networks Learn?](https://msdn.microsoft.com/en-us/magazine/mt833406)
 - [Self-organizing map](https://en.wikipedia.org/wiki/Self-organizing_map)
+- [Building a Feedforward Neural Network from Scratch in Python](https://hackernoon.com/building-a-feedforward-neural-network-from-scratch-in-python-d3526457156b)
 
 ### Funciones de Activación
 
