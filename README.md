@@ -152,6 +152,7 @@ A completar
 - [CAN: Creative Adversarial Networks Generating “Art” by Learning About Styles and Deviating from Style Norms](https://arxiv.org/pdf/1706.07068.pdf)
 - [Generative Adversarial Networks for Text Generation — Part 2: Reinforcement Learning'](https://becominghuman.ai/generative-adversarial-networks-for-text-generation-part-2-rl-1bc18a2b8c60)
 - [5 New Generative Adversarial Network (GAN) Architectures For Image Synthesis](https://www.topbots.com/ai-research-generative-adversarial-network-images/)
+- [The Rise of Generative Adversarial Networks](https://blog.usejournal.com/the-rise-of-generative-adversarial-networks-be52d424e517)
 
 ### Aplicaciones
 
