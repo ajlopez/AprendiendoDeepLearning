@@ -48,6 +48,7 @@ A completar
 - [How Do Neural Networks Learn?](https://msdn.microsoft.com/en-us/magazine/mt833406)
 - [Self-organizing map](https://en.wikipedia.org/wiki/Self-organizing_map)
 - [Building a Feedforward Neural Network from Scratch in Python](https://hackernoon.com/building-a-feedforward-neural-network-from-scratch-in-python-d3526457156b)
+- [To The Point: A Quick Neural Network in JavaScript](https://medium.com/@kieranmaher13/to-the-point-a-quick-neural-network-in-javascript-4863cab89d60)
 
 ### Funciones de Activación
 
