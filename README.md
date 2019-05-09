@@ -129,6 +129,7 @@ A completar
 - [Deep Q-Learning](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/deep_q_learning.html)
 - [Schooling Flappy Bird: A Reinforcement Learning Tutorial](https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial)
 - [What’s New in Deep Learning Research: How Google Uses Reinforcement Learning to Ask All the Right Questions](https://towardsdatascience.com/whats-new-in-deep-learning-research-how-google-uses-reinforcement-learning-to-ask-all-the-right-69c172f113c4)
+- [Combination of Deep and Reinforcement Learning](https://becominghuman.ai/combination-of-deep-and-reinforcement-learning-1ae49d6da3bc)
 
 ### Implementaciones
 
@@ -267,6 +268,7 @@ A completar
 - [20 Facial Recognition Search Engines For Online Photo Search](https://biometrictoday.com/facial-recognition-search-engines-online-photo/)
 - [8 Best Facial Recognition Search Engines to Search Faces Online](https://www.technonutty.com/2018/01/face-search-using-facial-recognition-search-engines.html)
 - [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
+- [How to set up face verification the easy way using HTML5 + JavaScript](https://medium.com/better-programming/how-to-set-up-face-verification-the-easy-way-using-html5-javascript-5301235e495f)
 
 ## Presentaciones
 
