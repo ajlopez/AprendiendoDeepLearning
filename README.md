@@ -96,6 +96,7 @@ A completar
 - [How To Teach A Computer To See With Convolutional Neural Networks](https://towardsdatascience.com/how-to-teach-a-computer-to-see-with-convolutional-neural-networks-96c120827cd1)
 - [Implementation of Training Convolutional Neural Networks](https://arxiv.org/ftp/arxiv/papers/1506/1506.01195.pdf)
 - [Image Tagger - A Convolutional Neural Network Based Image Classifier](https://www.codeproject.com/Articles/1360649/Image-Tagger-A-Convolutional-Neural-Network-Based)
+- [Everything you need to know to master Convolutional Neural Networks](https://medium.freecodecamp.org/everything-you-need-to-know-to-master-convolutional-neural-networks-ef98ca3c7655)
 
 ### Redes Recurrentes
 
