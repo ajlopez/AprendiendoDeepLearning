@@ -126,6 +126,8 @@ A completar
 - [Learning Deep Learning — Step 1](https://becominghuman.ai/learning-deep-learning-step-1-dd635c373e7a)
 - [Deep Learning: Feedforward Neural Networks Explained](https://hackernoon.com/deep-learning-feedforward-neural-networks-explained-c34ae3f084f1)
 - [Deep Learning Structure Guide for Beginners](https://becominghuman.ai/deep-learning-structure-guide-for-beginners-9681cab342b6)
+- [Deep Learning Cheat Sheats](https://www.kdnuggets.com/2018/11/deep-learning-cheat-sheets.html)
+
 
 ### Aprendizaje Reforzado
 
