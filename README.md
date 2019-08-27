@@ -243,6 +243,8 @@ A completar
 - [How does the Inception module work in GoogLeNet deep architecture?](https://www.quora.com/How-does-the-Inception-module-work-in-GoogLeNet-deep-architecture)
 - [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/abs/1802.01548)
 - [Review: R-CNN (Object Detection)](https://medium.com/coinmonks/review-r-cnn-object-detection-b476aba290d1)
+- [How The Deep Learning Approach For Object Detection Evolved Over The Years](https://www.analyticsindiamag.com/how-the-deep-learning-approach-for-object-detection-evolved-over-the-years/)
+
 
 ### Detección de Células Cancerosas
 
