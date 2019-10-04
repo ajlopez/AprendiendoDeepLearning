@@ -206,6 +206,7 @@ A completar
 - [Innovations of AlphaGo](https://deepmind.com/blog/innovations-alphago/)
 - [Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper](https://github.com/gcp/leela-zero)
 - [Las diferencias entre AlphaGo Fan, AlphaGo Lee, AlphaGo Master y AlphaGo Zero](https://francis.naukas.com/2017/10/21/las-diferencias-entre-alphago-fan-alphago-lee-alphago-master-y-alphago-zero/)
+- [AlphaGo versus Lee Sedol](https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol)
 
 ### Detección de Objetos (Object Recognition)
 
