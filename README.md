@@ -282,4 +282,5 @@ A completar
 ## Presentaciones
 
 - [Neural Networks and Deep Learning](https://docs.google.com/presentation/d/111OTaa393KlADKp7put4Q4JCpZWyz2W6R1CcC3073D4)
+- [Deep Learning and the Game of Go](https://docs.google.com/presentation/d/1CXVSGpaxJFfJ2GT0sBdPdQowvk7vMB5_nPS2g8p2AN4/)
 
