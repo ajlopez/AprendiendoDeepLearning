@@ -207,6 +207,7 @@ A completar
 - [Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper](https://github.com/gcp/leela-zero)
 - [Las diferencias entre AlphaGo Fan, AlphaGo Lee, AlphaGo Master y AlphaGo Zero](https://francis.naukas.com/2017/10/21/las-diferencias-entre-alphago-fan-alphago-lee-alphago-master-y-alphago-zero/)
 - [AlphaGo versus Lee Sedol](https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol)
+- [A former world champion of the game Go says he's retiring because AI is so strong: 'Even if I become the No. 1, there is an entity that cannot be defeated'](https://www.businessinsider.com/deep-mind-alphago-ai-lee-sedol-south-korea-go-2019-11)
 
 ### Detección de Objetos (Object Recognition)
 
