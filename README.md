@@ -279,6 +279,9 @@ A completar
 - [8 Best Facial Recognition Search Engines to Search Faces Online](https://www.technonutty.com/2018/01/face-search-using-facial-recognition-search-engines.html)
 - [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
 - [How to set up face verification the easy way using HTML5 + JavaScript](https://medium.com/better-programming/how-to-set-up-face-verification-the-easy-way-using-html5-javascript-5301235e495f)
+- [An Intro to Deep Learning for Face Recognition](https://towardsdatascience.com/an-intro-to-deep-learning-for-face-recognition-aa8dfbbc51fb)
+- [Making your own Face Recognition System](https://www.freecodecamp.org/news/making-your-own-face-recognition-system-29a8e728107c/)
+- [Building a Facial Recognition Pipeline with Deep Learning in Tensorflow](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
 
 ## Presentaciones
 
