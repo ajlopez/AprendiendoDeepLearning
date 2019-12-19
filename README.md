@@ -169,6 +169,7 @@ A completar
 - [Deep Lip Reading: a comparison of models and an online application](https://arxiv.org/abs/1806.06053)
 - [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 - [Loc2Vec: Learning location embeddings with triplet-loss networks](https://www.sentiance.com/2018/05/03/loc2vec-learning-location-embeddings-w-triplet-loss-networks/)
+- [A 2019 Guide to Speech Synthesis with Deep Learning](https://heartbeat.fritz.ai/a-2019-guide-to-speech-synthesis-with-deep-learning-630afcafb9dd)
 
 ### Libros
 
@@ -272,6 +273,7 @@ A completar
 - [8 Best Facial Recognition Search Engines to Search Faces Online](https://www.technonutty.com/2018/01/face-search-using-facial-recognition-search-engines.html)
 - [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
 - [How to set up face verification the easy way using HTML5 + JavaScript](https://medium.com/better-programming/how-to-set-up-face-verification-the-easy-way-using-html5-javascript-5301235e495f)
+- [Face recognition with OpenCV: Haar Cascade](https://medium.com/dataseries/face-recognition-with-opencv-haar-cascade-a289b6ff042a)
 
 ## Presentaciones
 
