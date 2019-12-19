@@ -125,6 +125,9 @@ A completar
 - [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 - [Learning Deep Learning — Step 1](https://becominghuman.ai/learning-deep-learning-step-1-dd635c373e7a)
 - [Deep Learning: Feedforward Neural Networks Explained](https://hackernoon.com/deep-learning-feedforward-neural-networks-explained-c34ae3f084f1)
+- [Deep Learning Structure Guide for Beginners](https://becominghuman.ai/deep-learning-structure-guide-for-beginners-9681cab342b6)
+- [Deep Learning Cheat Sheats](https://www.kdnuggets.com/2018/11/deep-learning-cheat-sheets.html)
+
 
 ### Aprendizaje Reforzado
 
@@ -204,6 +207,8 @@ A completar
 - [Innovations of AlphaGo](https://deepmind.com/blog/innovations-alphago/)
 - [Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper](https://github.com/gcp/leela-zero)
 - [Las diferencias entre AlphaGo Fan, AlphaGo Lee, AlphaGo Master y AlphaGo Zero](https://francis.naukas.com/2017/10/21/las-diferencias-entre-alphago-fan-alphago-lee-alphago-master-y-alphago-zero/)
+- [AlphaGo versus Lee Sedol](https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol)
+- [A former world champion of the game Go says he's retiring because AI is so strong: 'Even if I become the No. 1, there is an entity that cannot be defeated'](https://www.businessinsider.com/deep-mind-alphago-ai-lee-sedol-south-korea-go-2019-11)
 
 ### Detección de Objetos (Object Recognition)
 
@@ -241,6 +246,8 @@ A completar
 - [How does the Inception module work in GoogLeNet deep architecture?](https://www.quora.com/How-does-the-Inception-module-work-in-GoogLeNet-deep-architecture)
 - [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/abs/1802.01548)
 - [Review: R-CNN (Object Detection)](https://medium.com/coinmonks/review-r-cnn-object-detection-b476aba290d1)
+- [How The Deep Learning Approach For Object Detection Evolved Over The Years](https://www.analyticsindiamag.com/how-the-deep-learning-approach-for-object-detection-evolved-over-the-years/)
+
 
 ### Detección de Células Cancerosas
 
@@ -274,8 +281,12 @@ A completar
 - [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
 - [How to set up face verification the easy way using HTML5 + JavaScript](https://medium.com/better-programming/how-to-set-up-face-verification-the-easy-way-using-html5-javascript-5301235e495f)
 - [Face recognition with OpenCV: Haar Cascade](https://medium.com/dataseries/face-recognition-with-opencv-haar-cascade-a289b6ff042a)
+- [An Intro to Deep Learning for Face Recognition](https://towardsdatascience.com/an-intro-to-deep-learning-for-face-recognition-aa8dfbbc51fb)
+- [Making your own Face Recognition System](https://www.freecodecamp.org/news/making-your-own-face-recognition-system-29a8e728107c/)
+- [Building a Facial Recognition Pipeline with Deep Learning in Tensorflow](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
 
 ## Presentaciones
 
 - [Neural Networks and Deep Learning](https://docs.google.com/presentation/d/111OTaa393KlADKp7put4Q4JCpZWyz2W6R1CcC3073D4)
+- [Deep Learning and the Game of Go](https://docs.google.com/presentation/d/1CXVSGpaxJFfJ2GT0sBdPdQowvk7vMB5_nPS2g8p2AN4/)
 
