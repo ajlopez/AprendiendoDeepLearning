@@ -127,7 +127,7 @@ A completar
 - [Deep Learning: Feedforward Neural Networks Explained](https://hackernoon.com/deep-learning-feedforward-neural-networks-explained-c34ae3f084f1)
 - [Deep Learning Structure Guide for Beginners](https://becominghuman.ai/deep-learning-structure-guide-for-beginners-9681cab342b6)
 - [Deep Learning Cheat Sheats](https://www.kdnuggets.com/2018/11/deep-learning-cheat-sheets.html)
-
+- [The Next Frontier in AI: Nothing](https://medium.com/@maxversace/the-next-frontier-in-ai-nothing-99bc8189c588)
 
 ### Aprendizaje Reforzado
 
@@ -248,7 +248,6 @@ A completar
 - [Review: R-CNN (Object Detection)](https://medium.com/coinmonks/review-r-cnn-object-detection-b476aba290d1)
 - [How The Deep Learning Approach For Object Detection Evolved Over The Years](https://www.analyticsindiamag.com/how-the-deep-learning-approach-for-object-detection-evolved-over-the-years/)
 
-
 ### Detección de Células Cancerosas
 
 - [A Deep Learning Approach for Tumor Tissue Image Classification](https://www.researchgate.net/publication/298929528_A_Deep_Learning_Approach_for_Tumor_Tissue_Image_Classification)
@@ -284,6 +283,12 @@ A completar
 - [An Intro to Deep Learning for Face Recognition](https://towardsdatascience.com/an-intro-to-deep-learning-for-face-recognition-aa8dfbbc51fb)
 - [Making your own Face Recognition System](https://www.freecodecamp.org/news/making-your-own-face-recognition-system-29a8e728107c/)
 - [Building a Facial Recognition Pipeline with Deep Learning in Tensorflow](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
+- [Face Recognition for Beginners](https://towardsdatascience.com/face-recognition-for-beginners-a7a9bd5eb5c2)
+
+## Reconocimiento de Expresiones (Facial Expression Recognition)
+
+- [Real Time Facial Expression Recognition](https://medium.com/datadriveninvestor/real-time-facial-expression-recognition-f860dacfeb6a)
+
 
 ## Presentaciones
 
