@@ -149,6 +149,7 @@ A completar
 - [StarSpace](https://research.fb.com/downloads/starspace/)
 - [StarSpace: Learning embeddings for classification, retrieval and ranking](https://github.com/facebookresearch/StarSpace)
 - [TensorRT](https://developer.nvidia.com/tensorrt)
+- [Google Trax](https://github.com/google/trax)
 
 ### Conjuntos de Datos
 
