@@ -212,6 +212,7 @@ A completar
 - [A former world champion of the game Go says he's retiring because AI is so strong: 'Even if I become the No. 1, there is an entity that cannot be defeated'](https://www.businessinsider.com/deep-mind-alphago-ai-lee-sedol-south-korea-go-2019-11)
 - [AlphaGo vs. AlphaGo; Game 36: The ladder game](https://www.usgo.org/news/2020/02/alphago-vs-alphago-game-36-the-ladder-game/)
 - [AlphaGo Zero vs. AlphaGo Lee with Michael Redmond 9p: Game 1](https://www.youtube.com/watch?v=t82TxdRwUao)
+- [Google's self-learning AI AlphaZero masters chess in 4 hours](https://www.youtube.com/watch?v=0g9SlVdv1PY)
 
 ### Detección de Objetos (Object Recognition)
 
