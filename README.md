@@ -213,6 +213,7 @@ A completar
 - [AlphaGo vs. AlphaGo; Game 36: The ladder game](https://www.usgo.org/news/2020/02/alphago-vs-alphago-game-36-the-ladder-game/)
 - [AlphaGo Zero vs. AlphaGo Lee with Michael Redmond 9p: Game 1](https://www.youtube.com/watch?v=t82TxdRwUao)
 - [Google's self-learning AI AlphaZero masters chess in 4 hours](https://www.youtube.com/watch?v=0g9SlVdv1PY)
+- [In Two Moves, AlphaGo and Lee Sedol Redefined the Future](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/)
 
 ### Detección de Objetos (Object Recognition)
 
