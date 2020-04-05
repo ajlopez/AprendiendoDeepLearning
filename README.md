@@ -214,6 +214,7 @@ A completar
 - [AlphaGo Zero vs. AlphaGo Lee with Michael Redmond 9p: Game 1](https://www.youtube.com/watch?v=t82TxdRwUao)
 - [Google's self-learning AI AlphaZero masters chess in 4 hours](https://www.youtube.com/watch?v=0g9SlVdv1PY)
 - [In Two Moves, AlphaGo and Lee Sedol Redefined the Future](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/)
+- [AlphaZero demonstrates synergy to Stockfish](https://www.youtube.com/watch?v=ObE4XD4uYOQ)
 
 ### Detección de Objetos (Object Recognition)
 
