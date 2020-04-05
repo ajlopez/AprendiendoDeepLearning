@@ -295,6 +295,11 @@ A completar
 
 - [Real Time Facial Expression Recognition](https://medium.com/datadriveninvestor/real-time-facial-expression-recognition-f860dacfeb6a)
 
+## Generación de Pruebas
+
+- [Deep Network Guided Proof Search](https://research.google/pubs/pub45813/)
+- [Generating Correctness Proofs with Neural Networks](https://arxiv.org/pdf/1907.07794.pdf)
+
 
 ## Presentaciones
 
