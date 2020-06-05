@@ -99,6 +99,7 @@ A completar
 - [Everything you need to know to master Convolutional Neural Networks](https://medium.freecodecamp.org/everything-you-need-to-know-to-master-convolutional-neural-networks-ef98ca3c7655)
 - [Deep Learning with Convolutional Neural Networks](https://medium.com/code-gin/deep-learning-with-convolutional-neural-networks-608f51319f9c)
 - [Visualising Filters and Feature Maps for Deep Learning](https://towardsdatascience.com/visualising-filters-and-feature-maps-for-deep-learning-d814e13bd671)
+- [An Idea From Physics Helps AI See in Higher Dimensions](https://www.quantamagazine.org/an-idea-from-physics-helps-ai-see-in-higher-dimensions-20200109/)
 
 ### Redes Recurrentes
 
