@@ -129,6 +129,13 @@ A completar
 - [Deep Learning Structure Guide for Beginners](https://becominghuman.ai/deep-learning-structure-guide-for-beginners-9681cab342b6)
 - [Deep Learning Cheat Sheats](https://www.kdnuggets.com/2018/11/deep-learning-cheat-sheets.html)
 - [The Next Frontier in AI: Nothing](https://medium.com/@maxversace/the-next-frontier-in-ai-nothing-99bc8189c588)
+- [La Siguiente Gran Revolución: NLP](https://www.youtube.com/watch?v=cTQiN9dewIg)
+- [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+- [GPT-3: Language Models are Few-Shot Learners](https://github.com/openai/gpt-3)
+- [A state-of-the-art open source chatbot](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot/)
+- [Unsupervised Translation of Programming Languages](https://arxiv.org/abs/2006.03511)
+- [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 
 ### Aprendizaje Reforzado
 
