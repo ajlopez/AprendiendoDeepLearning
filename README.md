@@ -224,6 +224,7 @@ A completar
 - [In Two Moves, AlphaGo and Lee Sedol Redefined the Future](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/)
 - [AlphaZero demonstrates synergy to Stockfish](https://www.youtube.com/watch?v=ObE4XD4uYOQ)
 - [Is AlphaGo Really Such a Big Deal?](https://www.quantamagazine.org/is-alphago-really-such-a-big-deal-20160329/)
+- [AI Ruined Chess. Now, It’s Making the Game Beautiful Again](https://www.wired.com/story/ai-ruined-chess-now-making-game-beautiful/)
 
 
 ### Detección de Objetos (Object Recognition)
